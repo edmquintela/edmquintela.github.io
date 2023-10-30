@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: edmquintela.github.io
+Token: 4c3baadfc5db97bda676439362bd7ee8ffe03d4200a111366c91ca72c313a78b
